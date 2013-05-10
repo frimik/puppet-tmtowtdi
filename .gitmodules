@@ -31,3 +31,6 @@
 [submodule "modules/concat"]
 	path = modules/concat
 	url = https://github.com/theforeman/puppet-concat
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
