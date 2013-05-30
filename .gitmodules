@@ -24,13 +24,13 @@
 	url = https://github.com/theforeman/puppet-git.git
 [submodule "modules/dhcp"]
 	path = modules/dhcp
-	url = https://github.com/theforeman/puppet-dhcp
+	url = https://github.com/theforeman/puppet-dhcp.git
 [submodule "modules/dns"]
 	path = modules/dns
-	url = https://github.com/theforeman/puppet-dns
+	url = https://github.com/theforeman/puppet-dns.git
 [submodule "modules/concat"]
 	path = modules/concat
-	url = https://github.com/theforeman/puppet-concat
+	url = https://github.com/theforeman/puppet-concat.git
 [submodule "modules/stdlib"]
 	path = modules/stdlib
 	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
