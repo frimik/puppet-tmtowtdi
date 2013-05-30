@@ -46,3 +46,6 @@
 [submodule "modules/firewall"]
 	path = modules/firewall
 	url = https://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
