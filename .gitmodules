@@ -37,3 +37,6 @@
 [submodule "modules/puppetdb"]
 	path = modules/puppetdb
 	url = https://github.com/puppetlabs/puppetlabs-puppetdb.git
+[submodule "modules/inifile"]
+	path = modules/inifile
+	url = https://github.com/cprice-puppet/puppetlabs-inifile.git
